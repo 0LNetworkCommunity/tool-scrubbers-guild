@@ -5,7 +5,7 @@
 | User | Address | 13/07 | 20/07| 
 | -------- | -------- | -------- |------|
 | @andersph  | Text     | 10000  | 10000|
-| @Ashiiix     | Text     | 10000     | 0|
+| @Ashiiix     | 1CD3FB458361915C437F04AAAB4AD7B1 | 10000     | 0|
 | @Daniyal     | Text     | 10000     | 10000|
 | @Kalvinen     | Text     | 10000     | 10000|
 | @misko9     | Text     | 10000     | 0|
