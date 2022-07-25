@@ -10,7 +10,7 @@
 | @Kalvinen     | Text     | 10000     | 10000|
 | @misko9     | Text     | 10000     | 0|
 | @cj.blocz     | Text     | 10000     | 10000|
-| @mortonbits     | Text     | 10000     | 10000|
+| @mortonbits     | 99C6D661C7CA4907FBFD88069A90E3B6 | 10000     | 10000|
 | @Nour \| Bᴺ 𝕊pace     | 76FBA8257F712260110386FAAB9F9D2F | 10000     | 10000|
 | @0D \| 0o-de-lally    | Text     | 10000     | 10000|
 | @thenateway     | Text     | 10000     | 10000|
