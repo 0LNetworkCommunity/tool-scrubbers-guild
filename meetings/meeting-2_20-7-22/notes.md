@@ -50,4 +50,11 @@ Attendess(discord handles):
 ### Outreach
 - Added a post on FreeCodeCamp but it is currently waiting for moderators to accept
 
-> Video was taken and will be uploaded but unfortunetely there is no audio.
+### Video
+
+
+https://user-images.githubusercontent.com/97761083/180877269-c5bf0f83-95f5-4719-8ffd-8950e72f0ad2.mp4
+
+
+
+> Video unfortunetely does not have audio.
