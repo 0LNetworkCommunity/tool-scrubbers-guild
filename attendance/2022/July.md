@@ -7,7 +7,7 @@
 | @andersph  | Text     | 10000  | 10000|
 | @Ashiiix     | 1CD3FB458361915C437F04AAAB4AD7B1 | 10000     | 0|
 | @Daniyal     | Text     | 10000     | 10000|
-| @Kalvinen     | Text     | 10000     | 10000|
+| @Kalvinen     | c2955697d963f4f3a02d754ad80d2252 | 10000     | 10000|
 | @misko9     | Text     | 10000     | 0|
 | @cj.blocz     | Text     | 10000     | 10000|
 | @mortonbits     | 99C6D661C7CA4907FBFD88069A90E3B6 | 10000     | 10000|
