@@ -22,6 +22,9 @@
 
 4. Fork the Libra repo
 `https://github.com/OLSF/libra/fork`
+> Install all dependencies
+`curl -sL https://raw.githubusercontent.com/OLSF/libra/main/ol/util/setup.sh | bash`
+`sudo apt install -y git vim zip unzip jq build-essential cmake clang llvm libgmp-dev secure-delete pkg-config libssl-dev lld`
 5. Download the newly forked Github repo
 `git clone https://github.com/<YOUR USER ACC>/libra`
 6. Create a new branch for your changes
