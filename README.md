@@ -18,4 +18,8 @@ A guild for 0L that has two main goals:
 
 We meet every Wednesday at 11AM PST in the 0L [Discord](https://discord.gg/GXazrCUV). Meeting minutes and recordings will be posted here shortly thereafter.
 
+## Organization
+
+We have a [project board](https://github.com/orgs/OLSF/projects/8) that we use to organize work that we need to do and collaborate on ideas. It is free for everyone to contribute to the conversation. Collaboration is not only welcome, it is expected 😁
+
 # Anyone and any skill level welcome ✊🏻☀️ 
