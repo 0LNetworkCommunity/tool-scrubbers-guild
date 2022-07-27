@@ -1,5 +1,5 @@
-# Tool Scrubbers Guild Meeting # 2
-Date: 20/07/22
+# Tool Scrubbers Guild Meeting # 3
+Date: 27/07/22
 Attendess(discord handles):
 - @andersph 
 - @Daniyal 
