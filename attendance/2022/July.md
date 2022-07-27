@@ -17,6 +17,6 @@
 | @Wade \| TPT     | 54d5d5dd28c358060e7600191ec8f515     | 10000     | 10000|10000|
 | @Saturn     | Text     | 0     | 10000| 10000 |
 | @0xslipk     | Text     | 0     | 0| 10000 |
-| @sirouk     | Text     | 0     | 0| 10000 |
+| @sirouk     | 5764a0ead5379b922525e1b8958a9be9     | 0     | 0| 10000 |
 | @TheOneID     | Text     | 0     | 0| 10000 |
 
