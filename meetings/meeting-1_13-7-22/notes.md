@@ -105,4 +105,6 @@ Participation is paid via faucets for any level of participation. The goal is th
     - Can be done running `rustfmt <path-to-file>` 
 
 
+## Video
 
+[![0L - Tool Scrubbers Guild Meeting # 3](https://img.youtube.com/vi/I0a1j_QtWKE/maxresdefault.jpg)](https://youtu.be/I0a1j_QtWKE)
