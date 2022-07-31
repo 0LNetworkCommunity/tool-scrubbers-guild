@@ -76,8 +76,4 @@ Attendess(discord handles):
 
 ### Video
 
-
-
 [![0L - Tool Scrubbers Guild Meeting # 3](https://img.youtube.com/vi/I0a1j_QtWKE/maxresdefault.jpg)](https://youtu.be/I0a1j_QtWKE)
-
-
