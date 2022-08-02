@@ -40,10 +40,12 @@ Attendess(discord handles):
 ### Resources
 -  [Option](https://doc.rust-lang.org/rust-by-example/std/option.html)
 -  [Result](https://doc.rust-lang.org/rust-by-example/error/result.html)
+-  [Error Handling](https://www.sheshbabu.com/posts/rust-error-handling/)
 -  [Unit Testing](https://doc.rust-lang.org/rust-by-example/testing/unit_testing.html)
 -  [Testing](https://doc.rust-lang.org/rust-by-example/cargo/test.html)
 -  [Borrow Checker Video](https://www.youtube.com/watch?v=u4KyvRGKpuI)
 -  [Borrow Checker Article](https://blog.logrocket.com/introducing-the-rust-borrow-checker/)
+
 
 ### Agenda
 
@@ -77,3 +79,12 @@ Attendess(discord handles):
 ### Video
 
 [![0L - Tool Scrubbers Guild Meeting # 3](https://img.youtube.com/vi/I0a1j_QtWKE/maxresdefault.jpg)](https://youtu.be/I0a1j_QtWKE)
+
+
+### Potential Lesson
+
+1. Find files in the codebase, go through and refactor `.unwrap()` in the code.
+2. Create a draft pull request and add some of the guild members as approvers.
+3. After getting feedback, read documentation on [error handling](https://www.sheshbabu.com/posts/rust-error-handling/)
+4. Address approval issues and use the knowledge from the article to help better refactor the intiall PR draft
+
