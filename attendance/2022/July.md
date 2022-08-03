@@ -13,7 +13,7 @@
 | @mortonbits     | 99C6D661C7CA4907FBFD88069A90E3B6 | 10000     | 10000|10000|
 | @Nour \| Bᴺ 𝕊pace     | 76FBA8257F712260110386FAAB9F9D2F | 10000     | 10000|10000|
 | @0D \| 0o-de-lally    | Text     | 10000     | 10000|10000|
-| @thenateway     | Text     | 10000     | 10000|10000|
+| @thenateway     | E264023342B41ACCDBB61A190B6CB2A7     | 10000     | 10000|10000|
 | @Wade \| TPT     | 54d5d5dd28c358060e7600191ec8f515     | 10000     | 10000|10000|
 | @Saturn     | Text     | 0     | 10000| 10000 |
 | @0xslipk     | Text     | 0     | 0| 10000 |
