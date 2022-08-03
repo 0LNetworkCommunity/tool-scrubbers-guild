@@ -22,4 +22,34 @@ We meet every Wednesday at 11AM PST in the 0L [Discord](https://discord.gg/GXazr
 
 We have a [project board](https://github.com/orgs/OLSF/projects/8) that we use to organize work that we need to do and collaborate on ideas. It is free for everyone to contribute to the conversation. Collaboration is not only welcome, it is expected 😁
 
+## Fund Management
+
+The guild is a community run project and funded by the tool-scrubbers-guild community wallet
+
+`2640cd6d652ac94dc5f0963dcc00bcc7`
+
+The steward running the community wallet is @Wade | TPT#4475 on discord.
+
+> For validators wishing to help fund the guild.
+1. Add json file as payguild.json
+```
+{
+  "autopay_instructions": [
+    {
+      "note": "engineering fund, tool-scrubbers-guild, https://github.com/OLSF/tool-scrubbers-guild",
+      "uid": 0,
+      "destination": "2640cd6d652ac94dc5f0963dcc00bcc7",
+      "type_of": "PercentOfChange",
+      "value": 1,
+      "duration_epochs": 1000
+    }]
+}
+```
+
+2. Enable autopay(if not already enabled)
+`txs autopay -e`
+
+3. Add guild autopay
+`txs autopay-batch -f payguild.json`
+
 # Anyone and any skill level welcome ✊🏻☀️ 
