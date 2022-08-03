@@ -1,5 +1,5 @@
-# Tool Scrubbers Guild Meeting # 2
-Date: 20/07/22
+# Tool Scrubbers Guild Meeting # 4
+Date: 03/08/22
 Attendess(discord handles):
 - @andersph 
 - @Daniyal 
@@ -24,8 +24,12 @@ Attendess(discord handles):
 - Control Flow
 - Borrow Checker
 - Error Handling
+
+
 ### Resources
--  [Error Handling](https://doc.rust-lang.org/book/ch09-00-error-handling.html)
+-  [Error Handling 1](https://doc.rust-lang.org/book/ch09-00-error-handling.html)
+-  [Error Handling 2](https://www.sheshbabu.com/posts/rust-error-handling/)
+
 
 ### Agenda
 
@@ -64,8 +68,6 @@ Attendess(discord handles):
 
 ### Video
 
+https://youtu.be/7kLFWSxJvFA
 
 
-
-
-> Video unfortunetely does not have audio.
