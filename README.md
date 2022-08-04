@@ -30,7 +30,7 @@ The guild is a community run project and funded by the tool-scrubbers-guild comm
 
 The steward running the community wallet is @Wade | TPT#4475 on discord.
 
-> For validators wishing to help fund the guild.
+### For validators wishing to help fund the guild.
 1. Add json file as payguild.json
 ```
 {
@@ -51,5 +51,9 @@ The steward running the community wallet is @Wade | TPT#4475 on discord.
 
 3. Add guild autopay
 `txs autopay-batch -f payguild.json`
+
+## History
+
+Intitially concieved by @0o-de-lally and the first month was funded by @LOL-LLC [moonshot-program](https://github.com/LOL-LLC/moonshot-program)
 
 # Anyone and any skill level welcome ✊🏻☀️ 
