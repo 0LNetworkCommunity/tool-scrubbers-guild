@@ -1,0 +1,10 @@
+[package]
+name = "guild-factory"
+version = "0.0.0"
+
+[dependencies]
+
+
+[addresses]
+Sender = ""
+Std = "0x1"
