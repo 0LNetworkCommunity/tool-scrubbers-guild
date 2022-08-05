@@ -186,7 +186,7 @@ address STD {
 
             //guild
             //TODO: add constitution to guild
-            
+
             //journeys and tasks
             //TODO: add deliverable to task
             //TODO: get apprenticeship progress
@@ -212,7 +212,6 @@ address STD {
             }
 
             // @dev removes an element from the list of payments, and returns in to scope.
-            // need to add it back to the list
             fun get_index_by_name(_guild_addr: address, _name: vector<u64>): (bool, u64) acquires Guild {
             let g = borrow_global<Guild>(_guild_addr);
 
