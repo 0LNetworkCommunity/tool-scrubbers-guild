@@ -18,6 +18,8 @@
 
 Guilds can be created by anyone, they are intentionally bare to allow composablity for any use case
 
+<img width="1182" alt="Screen Shot 2022-08-05 at 12 38 31 PM" src="https://user-images.githubusercontent.com/97761083/183152164-f36c7d33-707a-43ec-8a9f-fa6b7223c255.png">
+
 ## Constitution
 
 A `Guild` has a `Constitution`. These are a set of rules that `Member`s should abide by.
