@@ -13,6 +13,7 @@
 ## Inspiration
 - [Raid Guild](https://handbook.raidguild.org/)
 - [Near Guilds](https://near.org/start-a-guild/)
+- [Guild.xyz](https://guild.xyz/)
 
 ## Guild
 
