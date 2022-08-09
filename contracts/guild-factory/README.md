@@ -42,8 +42,37 @@ A guild has `Apprenticeships`. These are badges/credentials([Soul Based Tokens?]
 
 > WIP
 
+three varibles in place that could be used to determine reputation(just to get the conversation flowing):
+
+1. Vouching by other users
+2. Member Score: Completion rate at different levels eg Apprenticeship and Journey
+3. Deliverable scoring for tasks by peers(anonymous)
+
 ## Payments
 
 > WIP
 
 
+## Basic Functionality
+
+**Guild functions**
+
+- Create Guild
+- Create Apprenticeship
+- Add Constitution
+- Add/remove Constitution rule
+- Create Membership
+- Add/remove Role
+
+
+**Apprenticeship functions**
+
+- Add Journey
+- Add Task
+- Add Deliverable
+
+
+**Member Fuctions**
+
+- Add/remove Detail
+- Change Detail
