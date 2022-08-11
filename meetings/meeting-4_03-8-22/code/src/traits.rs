@@ -5,6 +5,10 @@ use time;
 // Rust does not have Class inheritance.
 // The pattern for reusability leverages construction instead of inheritance.
 // Traits are the way to define the methods that a struct can use. Similar to the "interfaces" of a class in other languages.
+// More here:
+
+//https://riptutorial.com/rust/example/22917/inheritance-with-traits#:~:text=Instead%2C%20when%20you%20are%20designing,to%20extend%20to%20larger%20projects.
+// https://medium.com/comsystoreply/28-days-of-rust-part-2-composition-over-inheritance-cab1b106534a
 
 #[test] 
 fn test_vehicle_trait() {
