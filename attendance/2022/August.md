@@ -12,3 +12,6 @@
 | @sirouk | 9A710919B1A1E67EDA335269C0085C91 |  | 10000 | | |
 | @nControl88 | 48DB443FD44685144C6119A4531EF4A1	|  |  | 10000 | |
 | @Brian|Curiosity | 052b67785343d06dbf4f1d7f609af883 | 10000 | | 10000 | |
+| @Nima | 27e9577869adfd677dba9c940deece0a	|  |  | 10000 | |
+| @cj.blocz | 51fde00d9559b944bb2f17003478d4de  |  |  | | |
+| Codilion | 63bb13eba264f52ee3b47ac5dae02b13 | 10000 | 10000 | 10000 | 10000
