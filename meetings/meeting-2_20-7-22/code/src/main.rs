@@ -8,6 +8,9 @@ fn main() {
 
     // prints the borrowed n, does not consume it 
     dbg!(&n);
+    dbg!(n);
+
+
 
     // prints the borrowed n and again does not consume it
     borrow_number(&n);
