@@ -3,14 +3,18 @@ use time;
 // In this lesson we start with control flow.
 // We need to understand the different ways to handle errors, and how to safely exit a program.
 fn main() {
-    let time = get_time();
+    // let time = get_time();
 
 
     // so we can handle the option with a match statement.
-    match time {
-        Some(w) => println!("match found something: {}", w),
-        None => println!("match found NONE"),
-    }
+    // match time {
+    //     Some(w) => println!("match found something: {}", w),
+    //     None => println!("match found NONE"),
+    // }
+
+
+
+
 
     // // or use a dereference operator to get the value out of the option.
     // // this may not appear intuitive, but it's a very common pattern you will see in rust code.
@@ -33,6 +37,25 @@ fn main() {
     //     Err(e) => println!("ERROR: {}", e),
     // }
     
+
+    // Using different variants of unwrap methods:
+    
+    // let a = get_time_res().unwrap_or(42);
+    // dbg!(&a);
+
+    // let a = get_time_res().unwrap_or_else(
+    //   |e| {
+    //     // do whatever
+    //     77
+    //   }
+    // );
+    // // is equivalent to:
+    // let a = match get_time_res() {
+    //   Ok(a) => a,
+    //   Err(e) => { 77 }
+    // };
+
+    // dbg!(&a);
 }
 
 
@@ -50,7 +73,7 @@ fn get_time() -> Option<i64> {
 
 fn get_time_res() -> Result<i64, String> {
   let t = time::now_utc();
-  if true {
+  if false {
     let year = t.tm_year as i64;
     return Ok(year)
   }
