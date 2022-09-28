@@ -3,8 +3,10 @@ use time;
 // In this lesson we start with control flow.
 // We need to understand the different ways to handle errors, and how to safely exit a program.
 fn main() {
-    // let time = get_time();
 
+
+    // let time = get_time();
+    // dbg!(&time);
 
     // so we can handle the option with a match statement.
     // match time {
