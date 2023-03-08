@@ -4,19 +4,19 @@
 ## Introduction
 A guild for 0L that has two main goals:
 
-* Allow people to learn Rust, Move and 0L/Diem architecture
+* Allow people to learn Rust, Move, and 0L/Diem architecture
 * Help build/maintain core tools within the 0L ecosystem
-> Participation is paid via faucets for any level of contribution(even passively attending meetings!). The goal is that renumeration is paid proportionally to the contibutions but is TBD as the project progresses. Initial meeting attendees will be paid 10,000 coins for attending
+> Participation is paid via faucets for any level of contribution(even passively attending meetings!). The goal is that remuneration is paid proportionally to the contributions but is TBD as the project progresses. Initial meeting attendees will be paid 10,000 coins for attending
 
 **Two Levels**
 
 * Show up and learn
 * Clean up rust tools via formatting/refactoring
-> The scope may change over time. Faucet is intially done manually with the idea to get it automated within a month.
+> The scope may change over time. Faucet is initially done manually with the idea to get it automated within a month.
 
 ## Meeting
 
-We meet every Wednesday at 11AM PST in the 0L [Discord](https://discord.gg/GXazrCUV). Meeting minutes and recordings will be posted here shortly thereafter.
+We meet every Wednesday at 11 AM PST in the 0L [Discord](https://discord.gg/GXazrCUV). Meeting minutes and recordings will be posted here shortly thereafter.
 
 ## Organization
 
@@ -54,6 +54,6 @@ The steward running the community wallet is @Wade | TPT#4475 on discord.
 
 ## History
 
-Intitially concieved by @0o-de-lally and the first month was funded by @LOL-LLC [moonshot-program](https://github.com/LOL-LLC/moonshot-program)
+Initially conceived by @0o-de-lally and the first month was funded by @LOL-LLC [moonshot-program](https://github.com/LOL-LLC/moonshot-program)
 
-# Anyone and any skill level welcome ✊🏻☀️ 
+# Anyone and any skill level is welcome ✊🏻☀️ 
